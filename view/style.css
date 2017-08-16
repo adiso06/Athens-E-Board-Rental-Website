@@ -89,7 +89,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .fixed .navbar  { position: fixed; top: 60px; }
 
 .background-white { background: #FFFFFF; }
-.background-gray { background: #434242; }
+.background-gray { background: black; }
 .background-image {background-image: url(images/board5.jpg); 
                 background-size:contain;object-position: scale; filter:alpha(opacity=50); z-index: 1;  ; background-repeat:no-repeat;
      }
